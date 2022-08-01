@@ -1,0 +1,6 @@
+requests==2.27.1
+selenium==4.1.5
+chromedriver-binary==103.0.5060.134
+Pillow
+openpyxl
+beautifulsoup4
